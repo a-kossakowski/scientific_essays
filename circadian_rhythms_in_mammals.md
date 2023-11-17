@@ -1,3 +1,5 @@
+## Mammalian Circadian Rhythms and their Molcecular Mechanisms
+
 For this essay, I'll focus on the molecular mechanisms behind circadian rhythms in mammals, particularly exploring the genetic and cellular processes that govern these rhythms. Circadian rhythms are endogenously generated, roughly 24-hour cycles in physiological and behavioral processes observed in many living organisms, including humans. These rhythms are essential for synchronizing an organism's internal clock with the external environment, especially the day-night cycle.
 
 At the molecular level, the core of mammalian circadian rhythm involves a set of clock genes and their protein products, which form feedback loops to generate and regulate these rhythms. Two key genes, CLOCK and BMAL1, are central to this process. CLOCK (Circadian Locomotor Output Cycles Kaput) and BMAL1 (Brain and Muscle ARNT-Like 1) encode transcription factors that dimerize and bind to E-box elements in the promoter regions of various genes, including period (Per) and cryptochrome (Cry) genes (Reppert and Weaver, 2002). Once transcribed and translated, PER and CRY proteins gradually accumulate in the cytoplasm and then form complexes that translocate back into the nucleus.
@@ -12,7 +14,7 @@ These molecular mechanisms have significant implications for human health. Disru
 
 In conclusion, the molecular basis of circadian rhythms in mammals is a complex and finely tuned system. It involves an intricate network of genetic and biochemical processes, regulated by feedback loops and post-translational modifications. These mechanisms ensure the synchronization of internal physiological processes with the external environment, highlighting the intricate interplay between genetics and environmental factors in biological systems.
 
-References:
+### References:
 
 Reppert, S. M., & Weaver, D. R. (2002). Coordination of circadian timing in mammals. Nature, 418(6901), 935-941.
 Gallego, M., & Virshup, D. M. (2007). Post-translational modifications regulate the ticking of the circadian clock. Nature Reviews Molecular Cell Biology, 8(2), 139-148.
