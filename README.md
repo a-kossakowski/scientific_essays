@@ -4,6 +4,6 @@ In this repository I will describe various biological processes and phenomenons 
 
 ## Essays List
 
-**`circadian_rhythms_in_mammals.md`** - describes key molecular apsects behind mammaliad circadian rhytms.
+**`circadian_rhythms_in_mammals.md`** - describes key molecular apsects behind mammalian circadian rhytms.
 
 **`microsporidia.md`** - describes microsporidian ecology and key aspects of their life cycle.
