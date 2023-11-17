@@ -1,6 +1,6 @@
 # Scientific Essays for Biology
 
-In this repository I will describe various biological processes and phenomenons in biology.
+In this repository I will describe various biological processes and phenomenons in biology, which are linked to my personal interests or research.
 
 ## Essays List
 
