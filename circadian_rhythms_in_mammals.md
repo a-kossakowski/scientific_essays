@@ -16,7 +16,7 @@ In conclusion, the molecular basis of circadian rhythms in mammals is a complex 
 
 ### References:
 
-Reppert, S. M., & Weaver, D. R. (2002). Coordination of circadian timing in mammals. Nature, 418(6901), 935-941.
-Gallego, M., & Virshup, D. M. (2007). Post-translational modifications regulate the ticking of the circadian clock. Nature Reviews Molecular Cell Biology, 8(2), 139-148.
-Preitner, N., et al. (2002). The orphan nuclear receptor REV-ERBα controls circadian transcription within the positive limb of the mammalian circadian oscillator. Cell, 110(2), 251-260.
-Welsh, D. K., Takahashi, J. S., & Kay, S. A. (2010). Suprachiasmatic nucleus: cell autonomy and network properties. Annual Review of Physiology, 72, 551-577.
+- Reppert, S. M., & Weaver, D. R. (2002). Coordination of circadian timing in mammals. Nature, 418(6901), 935-941.
+- Gallego, M., & Virshup, D. M. (2007). Post-translational modifications regulate the ticking of the circadian clock. Nature Reviews Molecular Cell Biology, 8(2), 139-148.
+- Preitner, N., et al. (2002). The orphan nuclear receptor REV-ERBα controls circadian transcription within the positive limb of the mammalian circadian oscillator. Cell, 110(2), 251-260.
+- Welsh, D. K., Takahashi, J. S., & Kay, S. A. (2010). Suprachiasmatic nucleus: cell autonomy and network properties. Annual Review of Physiology, 72, 551-577.
