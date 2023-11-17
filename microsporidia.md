@@ -1,4 +1,4 @@
-## Microsporidia: Pceuliar Eukaryotic Parasites
+## Microsporidia: Peculiar Eukaryotic Parasites
 
 Microsporidia, as a group of eukaryotic obligate intracellular parasites, are characterized by their unique biological features and their impact on both human health and the broader ecological system. Their study is essential for understanding the intricacies of parasitic life cycles, host-parasite interactions, and the evolution of eukaryotic organisms.
 
