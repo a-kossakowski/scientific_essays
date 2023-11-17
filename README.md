@@ -8,6 +8,6 @@ In this repository I will describe various biological processes and phenomenons 
 
 **`microsporidia.md`** - describes microsporidian ecology and key aspects of their life cycle.
 
-## Additional Information
+## Additional Info
 
 See the [LICENSE](LICENSE.md) file for details.
