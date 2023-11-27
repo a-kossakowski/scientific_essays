@@ -14,7 +14,7 @@ The journey from an uncharacterized DUF to a functionally understood domain ofte
 
 In conclusion, the study of DUFs represents a frontier in molecular biology, bridging the gap between genomic data and functional understanding. The integration of bioinformatics, structural biology, genetics, and molecular biology is pivotal in elucidating the roles of these domains. As research continues, the mystery surrounding DUFs is gradually being unraveled, shedding light on their roles in essential biological processes and their implications in human health.
 
-References:
+## References:
 
 - O’Bleness, M. et al. (2012). Evolution of genetic and genomic features unique to the human lineage. Nature Reviews Genetics, 13(12), 853-866.
 - Bateman, A. et al. (2010). Structural and functional insights into bacterial cell wall synthesis. Journal of Biological Chemistry, 285(12), 5642-5652.
