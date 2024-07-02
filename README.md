@@ -6,14 +6,14 @@ In this repository I will describe various biological processes and phenomenons 
 
 **`circadian_rhythms_in_mammals.md`** - describes key molecular apsects behind mammalian circadian rhytms.
 
-**`microsporidia.md`** - describes microsporidian ecology and key aspects of their life cycle.
+**`microsporidia.md`** - describes microsporidian ecology and key aspects of those organisms life cycle.
 
 **`dufs.md`** - underlines and describes what are Domains of Unknown Functions (DUFs).
 
 **`neocallimastigomycotina.md`** - overwievs the unique Early Diverging Fungi phylum, Neocallimastigomycotina
 
-**`fungal_prions`** - short story of prions in fungi (baker yeast) and comparison to mammalian ones
+**`fungal_prions`** - short story of prions in fungi (baker yeast) and comparison to mammalian ones.
 
-## Additional Info
+## Other
 
 See the [LICENSE](LICENSE.md) file for details.
