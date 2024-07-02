@@ -12,6 +12,8 @@ In this repository I will describe various biological processes and phenomenons 
 
 **`neocallimastigomycotina.md`** - overwievs the unique Early Diverging Fungi phylum, Neocallimastigomycotina
 
+**`Fungal_prions`** - short story of prions in fungi (baker yeast) and comparison to mammalian ones
+
 ## Additional Info
 
 See the [LICENSE](LICENSE.md) file for details.
