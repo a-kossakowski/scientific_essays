@@ -10,9 +10,9 @@ In this repository I will describe various biological processes and phenomenons 
 
 **`dufs.md`** - underlines and describes what are Domains of Unknown Functions (DUFs).
 
-**`neocallimastigomycotina.md`** - overwievs the unique Early Diverging Fungi phylum, Neocallimastigomycotina
+**`neocallimastigomycotina.md`** - overwievs the unique Early Diverging Fungi phylum, Neocallimastigomycotina.
 
-**`fungal_prions`** - short story of prions in fungi (baker yeast) and comparison to mammalian ones.
+**`fungal_prions.md`** - short story of prions in fungi (baker yeast) and comparison to mammalian ones.
 
 ## Other
 
